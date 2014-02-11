@@ -1,1 +1,1 @@
-console.log 'this is test 2 check hotfix'
+console.log 'change by other developer. use git flow feature track test3'
